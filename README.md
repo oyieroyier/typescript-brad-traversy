@@ -284,3 +284,4 @@ Generate a tsconfig file by typing the command `tsc --init` in your folder.
 
 3. Uncomment the `outDir` property of the tsconfig file and choose which directory you want your compiled files to be in.
 
+4. Watch all the TS files using the `tsc --watch` command or `tsc -w` command. That way you won't need to recompile the code each time.
